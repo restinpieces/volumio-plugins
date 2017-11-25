@@ -196,6 +196,32 @@
 					"updated": "18-11-2017"
 				}
 			]
+		},
+		{
+			"prettyName": "user interface",
+			"name": "user_interface",
+			"id": "cat5",
+			"description": "",
+			"plugins": [
+				{
+					"prettyName": "BetterAlarm",
+					"icon": "fa-lightbulb-o",
+					"name": "betteralarm",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/user_interface/betteralarm/betteralarm.zip",
+					"license": "ISC",
+					"description": "Better Alarm and Sleep function",
+					"details": "",
+					"author": "restinpieces",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "25-11-2017"
+				}
+			]
 		}
 	]
 }
